@@ -1,3 +1,5 @@
+layout_spectrum: 0.0718324293518937
+typography_spectrum: 0.9095451410726119
 color:
   brandColors:
     - '#16193B'
@@ -5,10 +7,10 @@ color:
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
-  brandStrength: 0.8514469997026026
-  lightness: 0.6694769905880094
-  saturation: 0.6721667277161032
-  rhythmicContrast: 0.3176345631945878
+  brandStrength: 0.7830874572809564
+  lightness: 0.663903546843143
+  saturation: 0.6713196365331475
+  rhythmicContrast: 0.078611573678635
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -17,8 +19,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: AI WEB
-layout_spectrum: 0.24407321447506547
-typography_spectrum: 0.7216188942547888
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -37,7 +37,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
