@@ -1,0 +1,53 @@
+color:
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  brandStrength: 0.8514469997026026
+  lightness: 0.6694769905880094
+  saturation: 0.6721667277161032
+  rhythmicContrast: 0.3176345631945878
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: AI WEB
+layout_spectrum: 0.24407321447506547
+typography_spectrum: 0.7216188942547888
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfe1808c-9c4a-4f13-9bec-4efc380164ef.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfe1808c-9c4a-4f13-9bec-4efc380164ef.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: 'AIWEB.WORLD '
+description: EVOLVING THE WEB
+github: true
+url: 'http://aiweb.world'
+author:
+  name: AI WEB WORLD
